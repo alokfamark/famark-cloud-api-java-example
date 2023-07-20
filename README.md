@@ -1,6 +1,8 @@
 # famark-cloud-api-java-example
 This is a sample code showing how to call Famark Cloud API to store and retrieve data through Java programming language.
 
+This example requires **Famark Cloud Instance**, you can [Register New Instance](https://www.famark.com/Install/?ic=FreePlatform) or sign in to your [existing instance](https://www.famark.com/).
+
 ## Compiling the Java Code
 Open the integrated terminal in Visual Studio Code (View > Terminal or press Ctrl+~).
 Use the cd command to navigate to your project's root directory.
